@@ -17,6 +17,7 @@
  - Battlefiled V
  - Battlefiled 1
  - CS:GO
+ - 米塔 MiSide
  - Phigros
  - Arcaea
  - Resident Evil 7 Biohazard
