@@ -4,7 +4,7 @@
  - 📫 如何联系我 mr.kuzumi0601@outlook.com
 
 ## 访问量
-![Moe Counter](https://count.getloli.com/@:mika)
+![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
 
 
 # 😅涉猎过但是都不会的语言与工具：
