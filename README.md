@@ -3,6 +3,9 @@
  - 🤝 我隶属于 [ Chip Creation Club ](https://github.com/CCClubTech)
  - 📫 如何联系我 mr.kuzumi0601@outlook.com
 
+## 访问量
+[看这里](https://count.getloli.com/@:mika)
+
 
 # 😅涉猎过但是都不会的语言与工具：
  - arduino
