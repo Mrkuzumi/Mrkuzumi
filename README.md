@@ -7,17 +7,20 @@
 ![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
 
 > [!TIP]
-> ## !又报错了
+> ## <span style="color: #008000;">！又报错了</span>
 > 
-> 我知道，那你说怎么办呢
+> <span style="color: #008000;">我知道，那你说怎么办呢</span>
 
-> [!WARNING]
-> ## 我乱改一通，居然过了，嘿嘿嘿
 
-> [!WARNING]
-> ## 又要没完没了的STFW了？
+> [!CAUTION]
+> ## <span style="color: #FF0000;">我乱改一通，居然过了，嘿嘿嘿</span>
+
+
+
+> [!CAUTION]
+> ## <span style="color: #FF0000;">又要没完没了的STFW了？</span>
 >
-> 对
+> <span style="color: #FF0000;">对</span>
 
 # 😅涉猎过但是都不会的语言与工具：
  - arduino
