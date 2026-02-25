@@ -7,7 +7,7 @@
 ![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
 
 ## 🖥️ 终端展示
-![GitHub Terminal](https://github-readme-terminal.vercel.app/api?prompt=mika@mika:~#&command=neofetch&theme=dracula&title=My%20GitHub%20Terminal)
+![GitHub Terminal](https://github-readme-terminal.vercel.app/api?prompt=mika%40github%3A%7E%23&command=neofetch&theme=dracula&title=My+GitHub+Terminal)
 
 # 😅涉猎过但是都不会的语言与工具：
  - arduino
