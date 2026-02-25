@@ -6,10 +6,9 @@
 ## 访问量
 ![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
 
-<div style="background-color: #f0fdf4; border-left: 6px solid #22c55e; padding: 1.25rem; border-radius: 0.25rem; margin: 1rem 0;">
-  <h3 style="color: #15803d; margin-top: 0; margin-bottom: 0.75rem; font-size: 1.5rem;">💡 又报错了</h3>
-  <p style="color: #15803d; font-size: 1.25rem; margin: 0;">我知道, 那你说该怎么办呢?</p>
-</div>
+> [!TIP]
+> 又报错了
+> 我知道，那你说怎么办呢
 
 # 😅涉猎过但是都不会的语言与工具：
  - arduino
