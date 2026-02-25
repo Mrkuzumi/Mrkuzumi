@@ -7,9 +7,17 @@
 ![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
 
 > [!TIP]
-> # 又报错了
+> ## !又报错了
 > 
 > 我知道，那你说怎么办呢
+
+> [!WARNING]
+> ## 我乱改一通，居然过了，嘿嘿嘿
+
+> [!WARNING]
+> ## 又要没完没了的STFW了？
+>
+> 对
 
 # 😅涉猎过但是都不会的语言与工具：
  - arduino
