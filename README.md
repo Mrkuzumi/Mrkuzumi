@@ -6,6 +6,9 @@
 ## 访问量
 ![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mrkuzumi/Mrkuzumi/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 > [!TIP]
 > ## <span style="color: #22c55e;">! 又报错了</span>
 > <span style="color: #22c55e;">我知道，那你说怎么办呢</span>
