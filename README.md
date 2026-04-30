@@ -21,6 +21,8 @@
 > ## <span style="color: #ef4444;">又要没完没了的STFW了？</span>
 > <span style="color: #ef4444;">对</span>
 
+![GitHub Space Shooter](game.gif)
+
 # 😅涉猎过但是都不会的语言与工具：
  - arduino
  - bash
