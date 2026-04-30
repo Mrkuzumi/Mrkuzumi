@@ -1,0 +1,25 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每日UTC 0点自动更新
+  workflow_dispatch:    # 支持手动触发
+
+permissions:
+  contents: write       # 允许提交生成的GIF
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2  # 关键配置，必须保留
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Mrkuzumi  # 你的GitHub用户名
+          output-path: 'game.gif'  # 生成的GIF文件名
+          strategy: 'random'  # 攻击模式：random/row/column
+          fps: 40  # 动画帧率
