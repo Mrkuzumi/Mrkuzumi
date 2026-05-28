@@ -3,7 +3,7 @@
  - 🤝 我隶属于 [ Chip Creation Club ](https://github.com/CCClubTech)
  - 📫 如何联系我 mr.kuzumi0601@outlook.com
 
-![自介条](自介条.png)
+![自介条](自介图.png)
 
 ## 访问量
 ![Moe Counter](https://count.getloli.com/@:mika?theme=booru-lewd)
